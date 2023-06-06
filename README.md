@@ -2,8 +2,8 @@
 
 
 ## Environments
-- Preview: https://main--frankline-training--SRIIN5NET.hlx.page/
-- Live: https://main--frankline-training--SRIIN5NET.hlx.page.live/
+- Preview: https://main--frankline-demo--SRIIN5NET.hlx.page
+- Live: https://main--frankline-demo--SRIIN5NET.hlx.page.live/
 
 ## Installation
 
