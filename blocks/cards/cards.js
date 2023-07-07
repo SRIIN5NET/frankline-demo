@@ -14,6 +14,8 @@ export default function decorate(block) {
         div.className = 'cards-card-icon';
       } else {
         div.className = 'cards-card-body';
+      } else {
+        div.className = 'span';
       }
     });
     setTimeout(() => {
