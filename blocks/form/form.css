@@ -1,7 +1,16 @@
 main .form {
   background-color: white;
-  padding: var(--spacing-m);
   box-shadow: 0 1px 6px rgb(34 34 34 / 10%);
+  padding: 30px;
+  display: flex;
+  gap: 200px;
+}
+main .reach-us {
+  font-size: 30px;
+  line-height: 26px;
+  color: #252525;
+  text-decoration: underline;
+  padding-bottom: 25px;
 }
 
 main .form h2 {
